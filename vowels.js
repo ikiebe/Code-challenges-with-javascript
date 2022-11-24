@@ -1,3 +1,5 @@
+
+//this code would return the number of vowel found in a string
 const returnVowel = () => {
     let name = "emmanuel";
 
